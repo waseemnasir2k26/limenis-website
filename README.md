@@ -2,6 +2,10 @@
 
 A premium, production-ready website for Limenis Global Advisory Inc. — a maritime, port operations, and supply chain consulting firm.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 ## Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
