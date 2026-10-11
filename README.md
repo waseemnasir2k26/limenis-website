@@ -4,7 +4,7 @@ A premium, production-ready website for Limenis Global Advisory Inc. — a marit
 
 ## Status
 
-Last reviewed: September 2026 · release v2026.09
+Last reviewed: October 2026 · release v2026.10
 
 ## Tech Stack
 
@@ -131,3 +131,11 @@ All content data (services, stats, insights, etc.) is centralized in `lib/consta
 ## License
 
 Copyright 2026 Limenis Global Advisory Inc. All rights reserved.
+
+## Work with SkynetLabs
+
+Built by [Waseem Nasir](https://www.skynetjoe.com/?utm_source=github&utm_medium=readme&utm_campaign=limenis-website) at SkynetLabs — n8n + AI automation for small businesses.
+
+- Hire on Fiverr: https://www.fiverr.com/agencies/skynetjoellc
+- Hire on Upwork: https://www.upwork.com/freelancers/muhammadwaseemnasir
+- Book a free call: https://calendly.com/skynetlabs/schedule-a-free-consultation
